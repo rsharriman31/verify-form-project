@@ -1,0 +1,23 @@
+- Line 3:5 - Unexpected '“'.
+- Line 4:2 - Expected an identifier and instead saw 'var'.
+- Line 4:6 - Expected ')' and instead saw 'valid'.
+- Line 4:12 - Bad assignment.
+- Line 6:12 - Unexpected '“'.
+- Line 7:8 - Unexpected '“'.
+- Line 8:5 - Expected an identifier and instead saw '}'.
+- Line 8:7 - Expected ')' and instead saw 'else'.
+- Line 8:12 - Expected ')' and instead saw '{'.
+- Line 9:6 - Expected ')' to match '(' from line 6 and instead saw '$'.
+- Line 9:8 - Unexpected '“'.
+- Line 13:12 - Unexpected '“'.
+- Line 14:8 - Unexpected '“'.
+- Line 16:8 - Unexpected '“'.
+- Line 10:18 - Expected ')' to match '(' from line 9 and instead saw ';'.
+- Line 10:19 - Missing semicolon.
+- Line 13:5 - Expected ')' and instead saw 'if'.
+- Line 15:5 - Expected an identifier and instead saw '}'.
+- Line 15:7 - Expected ')' and instead saw 'else'.
+- Line 15:12 - Expected ')' and instead saw '{'.
+- Line 16:6 - Expected ')' and instead saw '$'.
+- Line 17:18 - Expected ')' and instead saw ';'.
+- Line 17:19 - Missing semicolon.
